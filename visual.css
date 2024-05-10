@@ -1,0 +1,54 @@
+body, div{
+    background-color: black;
+}
+p, h1, h2, h3{
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.inicio{
+    text-align: center;
+}
+.titulo{
+    font-size: 60px;
+}
+.Koenigsegg_sobre{
+    text-align: justify;
+    color: white;
+    margin-right: 400px;
+}
+.Koenigsegg_img{
+    height: 300px;
+    border: 3px solid white;
+}
+.carro1{
+    padding-top: 40px;
+}
+ol, li{
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    list-style-type: none;
+}
+.jesko_botao{
+    padding: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.zap{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.Divo_img{
+    height: 300px;
+    width: 530px;
+    border: 3px solid white;
+}
+.carro2{
+    margin-top: 100px;
+}
+.divo_sobre{
+    text-align: justify;
+    color: white;
+    margin-right: 400px;
+}
